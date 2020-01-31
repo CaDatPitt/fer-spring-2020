@@ -12,9 +12,9 @@
 
 Begin by clicking on "Open Link in New Tab." This should load a page with a teel banner that says ProQuest in the upper left hand corner. Below will be a menu, followed by  some bibliographical information, such as:
 
-#### D. Appleton & Company.
+### D. Appleton & Company.
 
-##### The Literary World; a Monthly Review of Current Literature (1870-1904); Boston Vol. 32, Iss. 10,  (Oct 1, 1901): 152.
+#### The Literary World; a Monthly Review of Current Literature (1870-1904); Boston Vol. 32, Iss. 10,  (Oct 1, 1901): 152.
 
 This information should match the review from the previous tab. Below this, there will be a window with a pdf in it. Note that you must be on Pitt's network for this link to display properly. 
 
