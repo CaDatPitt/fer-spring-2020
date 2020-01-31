@@ -12,12 +12,8 @@
 
 Begin by clicking on "Open Link in New Tab." This should load a page with a teel banner that says ProQuest in the upper left hand corner. Below will be a menu, followed by  some bibliographical information, such as:
 
-----
-
 > D. Appleton & Company.
 > The Literary World; a Monthly Review of Current Literature (1870-1904); Boston Vol. 32, Iss. 10,  (Oct 1, 1901): 152.
-
----
 
 This information should match the review from the previous tab. Below this, there will be a window with a pdf in it. Note that you must be on Pitt's network for this link to display properly. 
 
@@ -31,8 +27,8 @@ Read and/or skim the review. Dtermine if it is a review of one work, a review of
 
 - **Non-Review Content:** Anything that isn't a book review. Common examples include author interviews, letters from readers, news from various publishers, etc. For example, see https://query.nytimes.com/gst/abstract.html?res=9A00E6DD163EE733A25754C0A9679C946497D6CF
 
--**Brief or Mostly Quotes Review**: A review that is very sparse or heavily comprised of material from the reviewed book. The length cutoff is anything about 200 words or less. Use your best judgment; these will be cross-checked at a later date.  
-**Cluster of Reviews**: Thus category is reserved for a case when the podf contains more than one review, or a review plus other conent. Tagging a review as a cluster flags it for follow-up.  
+- **Brief or Mostly Quotes Review**: A review that is very sparse or heavily comprised of material from the reviewed book. The length cutoff is anything about 200 words or less. Use your best judgment; these will be cross-checked at a later date.  
+- **Cluster of Reviews**: Thus category is reserved for a case when the podf contains more than one review, or a review plus other conent. Tagging a review as a cluster flags it for follow-up.  
 
 # Presumed gender
 
